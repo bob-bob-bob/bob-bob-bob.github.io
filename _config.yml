@@ -84,3 +84,6 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+
+# Timezone
+timezone: 'Pacific/Auckland'
