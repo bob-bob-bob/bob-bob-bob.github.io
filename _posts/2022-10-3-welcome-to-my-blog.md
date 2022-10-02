@@ -8,4 +8,5 @@ This blog is a personal project for me to share my insights and learnings into m
 If you happen to learn something with me, great!
 
 Enjoy!
+
 0xInfo_Sec
