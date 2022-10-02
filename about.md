@@ -4,11 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+### whoami
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+I'm currently an Infrastructure and Security Engineer who is interested in RE, Malware and Threat Hunting. So in my spare time I'm constantly learning and upskilling. 
 
 ### Contact me
 
